@@ -24,4 +24,4 @@ This is a simple Django web app that returns a "Hello World!" message in JSON fo
 
 ## Deactivate Virtual Environment
 - When done, deactivate the virtual environment: `deactivate`
-- 
+  
